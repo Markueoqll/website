@@ -27,3 +27,4 @@ Best regards,
 
 <!-- markdownlint-disable-next-line MD036 -->
 *The Tachiyomi Team*
+the tachiyomi team*
